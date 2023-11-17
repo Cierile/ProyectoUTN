@@ -4,3 +4,6 @@ Perdon por la desprolijidad y por no poder completar el proyecto, pero no querí
 
 Muchísimas gracias!!
 Saludos!!
+
+PD: para loguearse pueden usar leonelcieri@hotmail.com y la contraseña es 1
+Lo que me pasa a veces cuando me voy a loguear es que tengo que hacerlo dos veces para que al segundo intento se acceda al panel. Me volví loco buscando el motivo pero no lo descubrí.
